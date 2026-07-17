@@ -2,7 +2,7 @@
 ![HR images folder/HR IMAGE.jpeg](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/HR%20IMAGE.jpeg))
 
 ## Project Overview
-This project involved cleaning and analyzing a raw HR dataset to build an interactive Excel dashboard. Starting from a messy and inconsistent file (`messy.xlsx`), the data was transformed into a reliable, cleaned version with supporting lookup tables, analysis, charts, and a final dashboard. The goal was to enable data-driven HR decision-making around headcount, compensation, performance, attrition, and bonuses.
+This project involved cleaning and analyzing a raw HR dataset to build an interactive Excel dashboard. Starting from a messy and inconsistent file, the data was transformed into a reliable, cleaned version with supporting lookup tables, analysis, charts, and a final dashboard. The goal was to enable data-driven HR decision-making around headcount, compensation, performance, attrition, and bonuses.
 
 ## 1. Key Findings
 - Total workforce: **150 employees** across 6 departments.
@@ -23,22 +23,22 @@ Pivot table analysis of the cleaned dataset revealed several important patterns:
 The following insights were generated:
 
 - **Headcount & Salary**: Information Technology dominates headcount, while Finance and Sales lead in average compensation.
-![Headcount & Average Salary by Department](HR images folder/Headcount and salary.png)
+![HR images folder/Headcount and salary.png](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/Headcount%20and%20salary.png))
 
 ---
 
 - **Top three paying departments**: Finace department followed by human resourses and sales department pay the most. Full department-wise view is in the screenshot.
-![Attrition Rate (%) by Department](HR images folder/Top three department.png)
+![HR images folder/Top three department.png)](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/Top%20three%20department.png)
 
 ---
 
 - **Performance**: Active (~67.9) and Left (~66.1) employees have similar averages; Resigned employees scored higher.
-![Performance Score](HR images folder/Employee performance.png)
+![HR images folder/Employee performance.png)](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/Employee%20performance.png)
 
 ---
 
 - **Bonus Distribution**: Majority of the $410,768 total bonus is allocated to top three performance bands.
-!Bonus Payout by Performance Band](HR images folder/Bonus payout.png)
+![HR images folder/Bonus payout.png)](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/Bonus%20payout.png)
 
 ## 4. Recommendations
 1. **Targeted Retention**: Prioritize Operations department due to highest attrition. Conduct exit interviews focusing on high-performing Resigned employees.
@@ -56,4 +56,4 @@ The following insights were generated:
 
 
 **Dashboard**
-![HR Automated DashBoard](HR images folder/HR DASHBOARD 8.png)
+![HR images folder/HR DASHBOARD 8.png)](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/HR%20DASHBOARD%208.png)
