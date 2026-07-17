@@ -52,10 +52,10 @@ The following insights were generated:
 **Data Cleaning Summary** (for reference):
 - Data was turned in to a table format and duplicates were removed using the employee ID column.
 - Hire date column was formatted into date data type and text to column was used to correct the inconsitency and errors.
-- Employment status column was changed into text format and the "Proper" function was used to adjust it to te normal format.
-- The department code column was changed into text format and te upper function was used to cange te letter cases
-- The performance scores and salary columns were filtered by department code and teir averages were calculated to handle the missing values 
-- The first name column missing values were handled by filtering by department code and the fill down function was used.
+- Employment status column was changed into text format and the "Proper" function was used to change the first letters cases.
+- The department code column was changed into text format and te upper function was used to change the letter cases
+- The performance scores and salary columns were filtered by department code and their averages were calculated to handle the missing values 
+- The first name column missing values were handled by filtering by department code and the fill down was used.
 - "Concatenate" function was used to create te full name column
 - Year of service column was created by using the "datedif" function
 - Performance band and eligible bonus colums were created using "ifs" function
