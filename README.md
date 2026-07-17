@@ -1,5 +1,5 @@
 # HR Analytics Capstone Project - Data Processing & Dashboard
-![](HR images folder/HR IMAGE.jpeg)
+![HR images folder/HR IMAGE.jpeg](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/HR%20IMAGE.jpeg))
 
 ## Project Overview
 This project involved cleaning and analyzing a raw HR dataset to build an interactive Excel dashboard. Starting from a messy and inconsistent file (`messy.xlsx`), the data was transformed into a reliable, cleaned version with supporting lookup tables, analysis, charts, and a final dashboard. The goal was to enable data-driven HR decision-making around headcount, compensation, performance, attrition, and bonuses.
