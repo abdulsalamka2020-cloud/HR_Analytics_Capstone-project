@@ -1,5 +1,5 @@
 # HR Analytics Capstone Project - Data Processing & Dashboard
-![HR images folder/HR IMAGE.jpeg](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/HR%20IMAGE.jpeg))
+![HR images folder/HR IMAGE.jpeg](https://github.com/abdulsalamka2020-cloud/HR_Analytics_Capstone-project/blob/main/HR%20images%20folder/HR%20IMAGE.jpeg)
 
 ## Project Overview
 This project involved cleaning and analyzing a raw HR dataset to build an interactive Excel dashboard. Starting from a messy and inconsistent file, the data was transformed into a reliable, cleaned version with supporting lookup tables, analysis, charts, and a final dashboard. The goal was to enable data-driven HR decision-making around headcount, compensation, performance, attrition, and bonuses.
@@ -50,9 +50,17 @@ The following insights were generated:
 ---
 
 **Data Cleaning Summary** (for reference):
-- Power Query was used to fix data types (Hire Date) and Find & Replace for Salary issues.
-- Lookup tables were created and some columns were also derived (Years of Service, Bonus calculations).
-- Process order: Load → Type correction → Cleaning → Lookups → Calculations → Validation.
+- Data was turned in to a table format and duplicates were removed using the employee ID column.
+- Hire date column was formatted into date data type and text to column was used to correct the inconsitency and errors.
+- Employment status column was changed into text format and the "Proper" function was used to adjust it to te normal format.
+- The department code column was changed into text format and te upper function was used to cange te letter cases
+- The performance scores and salary columns were filtered by department code and teir averages were calculated to handle the missing values 
+- The first name column missing values were handled by filtering by department code and the fill down function was used.
+- "Concatenate" function was used to create te full name column
+- Year of service column was created by using the "datedif" function
+- Performance band and eligible bonus colums were created using "ifs" function
+
+
 
 
 **Dashboard**
